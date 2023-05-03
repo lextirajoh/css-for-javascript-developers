@@ -3,7 +3,10 @@ import { KladContainer } from './styled';
 export const Klad = () => {
   return (
     <>
-      <KladContainer>Klad</KladContainer>
+      <KladContainer>
+        <h1>Klad</h1>
+
+      </KladContainer>
     </>
   );
 };

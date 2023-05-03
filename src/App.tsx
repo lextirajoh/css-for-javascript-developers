@@ -1,10 +1,11 @@
-import { Header, Klad } from './components';
+import { Header, Huckleberry, Klad } from './components';
 
 function App() {
   return (
     <>
-      <Header />
-      <Klad />
+      {/* <Header /> */}
+      {/* <Klad /> */}
+      <Huckleberry />
     </>
   );
 }
