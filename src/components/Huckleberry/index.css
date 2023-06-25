@@ -46,3 +46,9 @@ header {
   background-color: #ffbf00;
   border-bottom: 8px solid #cc9900;
 }
+
+.intro-chunk {
+  & p:last-child {
+    color: red;
+  }
+}

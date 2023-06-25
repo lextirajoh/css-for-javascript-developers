@@ -14,6 +14,7 @@ export const Huckleberry = () => {
             </p>
 
             <p>A better way to solve the problems of tomorrow.</p>
+            <h2>sadasd</h2> 
           </div>
         </div>
       </header>
@@ -31,6 +32,7 @@ export const Huckleberry = () => {
               Huckleberry was established in 2003 to help ambitious businesses discover their true
               potential. If that resonates, let's chat!
             </p>
+
           </div>
         </section>
       </main>
